@@ -1,0 +1,15 @@
+{
+    "ownerCookie":"",
+    "groupId":"",
+    "discordBotToken":"",
+    "discordNotificationChannelId":"",
+    "discordAcceptedChannelId": "",
+    "discordMemberCountChannelId":"",
+    "pauseBetweenRequests":5,
+    "useProxies":true,
+    "proxy":"http://e-rotate:e@p.webshare.io:80/",
+    "startGroupId":1,
+    "endGroupId":1,
+    "discordId": "",
+    "pingOnAccept": true
+}
